@@ -26,7 +26,7 @@ http://bit.ly/TastyBooks67dp[Nathan Yau — Data Points: Visualization That Mean
 <iframe src='https://www.podbean.com/media/player/bamzw-6d67ce?from=yiiadmin' data-link='https://www.podbean.com/media/player/bamzw-6d67ce?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
 ++++
 
-Благодарности патронам:
+Благодарности патронам: + 
 Sergey Kiselev, Sergey Petrov, Sergey Vinyarsky, Bogdan Storozhuk, Aleksandr Kiriushin, Sergii Zhuk, Pavel Sitnikov, Pavel Drobushevich, Yakov Krainov, Lagunovsky Ivan, Konstantin Kovrizhnykh, Евгений Власов, Vasiliy Galkin, Grigori Pivovar, Nikolay Ushmodin, B7W, Фёдор Русак
 
 http://bit.ly/TAOPpatron[Поддержи подкаст] +
