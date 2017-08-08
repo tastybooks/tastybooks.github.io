@@ -1,0 +1,19 @@
+= Руководство фасилитатора
+Антон Черноусов
+2016-06-28
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Подкаст, Психология
+:jbake-summary: Как наилучшим образом организовать процесс группового обсуждения принимаемых решений? Для этого вам нужен фасилитатор — специально обученный человек, который помогает группе думать наилучшим образом.
+
+
+http://bit.ly/TastyBooks47alpina[Сэм Кейнер — Руководство фасилитатора. Как привести группу к принятию совместного решения]
+
+Благодарности патронам: Sergey Kiselev, Andrey Shakhmin, Sergii Zhuk, Aleksandr Kiriushin, Nikolay Ushmodin, Pavel Drobushevich, Pavel Likin
+
+++++
+<iframe src='https://www.podbean.com/media/player/7pkpm-608703?from=yiiadmin' data-link='https://www.podbean.com/media/player/7pkpm-608703?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+++++
+
+http://bit.ly/TAOPpatron[Поддержи подкаст] +
+http://bit.ly/tastybooks[Подпишись в iTunes]

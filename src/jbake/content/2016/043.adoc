@@ -1,0 +1,19 @@
+= Сумма технологии
+Антон Черноусов
+2016-04-27
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Подкаст, Любопытство
+:jbake-summary: Собранием эссе о судьбах цивилизации от Станиславв Лема.
+
+
+http://bit.ly/TastyBooks43[Лем Станислав — Сумма технологии]
+
+Благодарности патронам: Sergey Kiselev, Pavel Drobushevich, Andrey Shakhmin, Aleksandr Kiriushin, Pavel, Sergii Zhuk, Nikolay Ushmodin
+
+++++
+<iframe src='https://www.podbean.com/media/player/rruvf-5e7634?from=yiiadmin' data-link='https://www.podbean.com/media/player/rruvf-5e7634?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+++++
+
+http://bit.ly/TAOPpatron[Поддержи подкаст] +
+http://bit.ly/tastybooks[Подпишись в iTunes]

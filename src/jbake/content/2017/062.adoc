@@ -1,0 +1,18 @@
+= Джони Айв
+Антон Черноусов
+2017-04-06
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Подкаст, Apple
+:jbake-summary: Идеи очень уязвимы, поэтому надо быть осторожным, пока они находятся в стадии развития.
+
+http://bit.ly/TastyBooks62[Линдер Кани — Джони Айв. Легендарный дизайнер Apple] +
+
+Благодарности патронам: Sergey Kiselev, Sergey Petrov, Sergey Vinyarsky, Bogdan Storozhuk, Aleksandr Kiriushin, Sergii Zhuk, Pavel Sitnikov, Yakov Krainov, Lagunovsky Ivan, Konstantin Kovrizhnykh, Евгений Власов, Nikolay Ushmodin, Pavel Drobushevich, B7W
+
+++++
+<iframe src='https://www.podbean.com/media/player/yyugy-696ebb?from=yiiadmin' data-link='https://www.podbean.com/media/player/yyugy-696ebb?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+++++
+
+http://bit.ly/TAOPpatron[Поддержи подкаст] +
+http://bit.ly/tastybooks[Подпишись в iTunes]

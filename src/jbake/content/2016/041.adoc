@@ -1,0 +1,19 @@
+= Теория игр
+Антон Черноусов
+2016-03-21
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Подкаст, Любопытство
+:jbake-summary: Теория игр — это строгое стратегическое мышление. Это искусство предугадывать следующий ход соперника с учетом того, что он занимается тем же самым.
+
+
+http://bit.ly/TastyBooks41game[Авинаш Диксит и Барри Нейлбафф — Теория игр. Искусство стратегического мышления в бизнесе и жизни]
+
+Благодарности патронам: Sergey Kiselev, Pavel Drobushevich, Andrey Shakhmin, Aleksandr Kiriushin, Pavel
+
+++++
+<iframe src='https://www.podbean.com/media/player/nqje3-5db4d2?from=yiiadmin' data-link='https://www.podbean.com/media/player/nqje3-5db4d2?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+++++
+
+http://bit.ly/TAOPpatron[Поддержи подкаст] +
+http://bit.ly/tastybooks[Подпишись в iTunes]

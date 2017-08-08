@@ -1,0 +1,18 @@
+= Rework. Бизнес без предрассудков
+Антон Черноусов
+2014-04-10
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Подкаст, Удаленная работа
+:jbake-summary: Книга от основателей 37signals про идею удаленной работы.
+
+http://bit.ly/TastyBooks02[Джейсон Фрайд и Дэвид Хайнемайер Хенссон — Rework. Бизнес без предрассудков] +
+Пара слов об удаленной работе. +
+О книгах от команды 37signals и Basecamp.
+
+++++
+<iframe src='https://www.podbean.com/media/player/iw4zt-5a4e25?from=yiiadmin' data-link='https://www.podbean.com/media/player/iw4zt-5a4e25?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+++++
+
+http://bit.ly/TAOPpatron[Поддержи подкаст] +
+http://bit.ly/tastybooks[Подпишись в iTunes]
