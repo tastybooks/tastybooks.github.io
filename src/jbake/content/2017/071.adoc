@@ -1,0 +1,30 @@
+= Управление продуктом в Scrum
+Антон Черноусов
+2017-08-17
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Подкаст, Продуктивность, Agile
+:jbake-summary: Это книга для всех, кого интересует agile-управление продуктом, особенно для тех, кто является владельцем продукта или переходит к этой роли. В книге рассказывается о роли владельца продукта, а также об основных методах управления продуктом.
+
+Валериан и город тысячи планет. +
+http://bit.ly/TastyBooks71[Роман Пихлер — Управление продуктом в Scrum. Agile-методы для вашего бизнеса.]
+
+Благодарности патронам: +
+Fedor Rusak, Storozhuk Bogdan, Sergey Petrov, Sergey Kiselev, Sergey Vinyarsky, Yakov, Pavel Sitnikov, nikaburu, Dmitry Dolzhenko, Pavel Drobushevich, Grigori Pivovar, Vasiliy Galkin, Евгений Власов, Konstantin Kovrizhnykh, Lagunovsky Ivan, Sergii Zhuk, Aleksandr Kiriushin, Nikolay Ushmodin, B7W, Leo Kapanen, Oleksii Nesterenko
+
+++++
+<iframe src='https://www.podbean.com/media/player/xzqfd-6f6317?from=yiiadmin' data-link='https://www.podbean.com/media/player/xzqfd-6f6317?from=yiiadmin' height='100' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+++++
+
+http://bit.ly/TAOPpatron[Поддержи подкаст] +
+http://bit.ly/tastybooks[Подпишись в iTunes]
+
+
+
+
+
+
+
+
+
+
