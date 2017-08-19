@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523026695.53742301</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>35</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 000 — Человек, который продал Луну [ фантастика ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523287451.49322701</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>48</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 065 — История упадка и разрушения Великой Римской империи [ любопытство ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519188104.45047402</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 066 — Пиши, сокращай. Как создавать сильный текст [ профи ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521340157.17983299</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 067 — Искусство визуализации в бизнесе [ дизайн ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522722678.59091002</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>24</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 068 — Современные яды [ любопытство ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523027194.115942</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>36</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 069 — Agile Kids [ дети ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523598055.28496099</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>52</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 070 — Пособие профессионального баристы [ профи ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523930967.64251399</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>61</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 071 — Управление продуктом в Scrum [ продуктивность ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524328252.65117103</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>68</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 072 — Кое-что задаром [ фантастика ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524666591.87076902</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>75</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 000 — Человек, который продал Луну [ фантастика ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 072 — Кое-что задаром [ фантастика ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 071 — Управление продуктом в Scrum [ продуктивность ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 070 — Пособие профессионального баристы [ профи ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 069 — Agile Kids [ дети ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 068 — Современные яды [ любопытство ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 067 — Искусство визуализации в бизнесе [ дизайн ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 066 — Пиши, сокращай. Как создавать сильный текст [ профи ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 065 — История упадка и разрушения Великой Римской империи [ любопытство ].md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+			<integer>75</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

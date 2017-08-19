@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>inprogress</string>
+		<string>третий сезон</string>
+		<string>второй сезон</string>
+		<string>первый сезон</string>
+	</array>
+	<key>createMarkedFile</key>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>inprogress</key>
+			<dict>
+				<key>lastModification</key>
+				<real>485317726.76171798</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>второй сезон</key>
+			<dict>
+				<key>lastModification</key>
+				<real>483423512.94075799</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>первый сезон</key>
+			<dict>
+				<key>lastModification</key>
+				<real>483423503.90024698</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>третий сезон</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519188099.71197599</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>createMarkedFile</key>
+		<real>479120443</real>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+			<integer>11</integer>
+		</dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
