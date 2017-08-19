@@ -3,14 +3,8 @@
 	<#include "menu.ftl">
 
 	<header id="header" class="header">		
-		<div class="inner">
-			<div style="height: 100px;
-			       background-image: url('images/tblogo2.png');
-						 background-repeat: no-repeat;
-						 -webkit-background-size: 70px 88px;
-						 -moz-background-size: 70px 88px;
-						 background-size: 70px 88px;
-						 ); display:block">
+		<div class="tblogo">
+			<div class="tblogoimg">
 
 						 <div style="display: block;
 						 font-family: 'Helvetica Neue', sans-serif;
