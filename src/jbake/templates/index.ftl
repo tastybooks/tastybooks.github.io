@@ -7,9 +7,9 @@
 			<div style="height: 100px;
 			       background-image: url('images/tblogo2.png');
 						 background-repeat: no-repeat;
-						 -webkit-background-size: 70px 82px;
-						 -moz-background-size: 70px 82px;
-						 background-size: 70px 82px;
+						 -webkit-background-size: 70px 88px;
+						 -moz-background-size: 70px 88px;
+						 background-size: 70px 88px;
 						 ); display:block">
 
 						 <div style="display: block;
@@ -28,7 +28,6 @@
 				     position: relative;
 				     font-weight: 300;
 						 ">Сайт подкаста Вкусные книги</div>
-
 			</div>
 		</div>
 	</header>
