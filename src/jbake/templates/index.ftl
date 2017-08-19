@@ -3,8 +3,8 @@
 	<#include "menu.ftl">
 
 	<header id="header" class="header">		
-		<div class="tblogo">
-			<div class="tblogoimg">
+		<div id="tblogo">
+			<div id="tblogoimg">
 
 						 <div style="display: block;
 						 font-family: 'Helvetica Neue', sans-serif;
