@@ -4,5 +4,6 @@
 *.class
 .idea
 build/
+podcast audio/
 .gradle
 !gradle/wrapper/gradle-wrapper.jar
