@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>http://tastybooks.golodnyj.ru/2017/073.html</loc>
+        <lastmod>2017-09-06</lastmod>
+    </url>
+    <url>
+        <loc>http://tastybooks.golodnyj.ru/2017/072.html</loc>
+        <lastmod>2017-08-29</lastmod>
+    </url>
+    <url>
         <loc>http://tastybooks.golodnyj.ru/2017/071.html</loc>
         <lastmod>2017-08-17</lastmod>
     </url>
@@ -290,6 +298,6 @@
     </url>
     <url>
         <loc>http://tastybooks.golodnyj.ru/author.html</loc>
-        <lastmod>2017-08-19</lastmod>
+        <lastmod>2017-09-06</lastmod>
     </url>
 </urlset>
