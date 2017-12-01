@@ -6,6 +6,16 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>@ Вкусные книги 072 — Кое-что задаром [ фантастика ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526554217.65744197</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>76</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -96,14 +106,34 @@
 					<integer>68</integer>
 				</dict>
 			</dict>
-			<key>Вкусные книги 072 — Кое-что задаром [ фантастика ].md</key>
+			<key>Вкусные книги 073 — Тёмная башня [ фантастика ].md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524666591.87076902</real>
+				<real>528722663.31254601</real>
 				<key>version</key>
 				<dict>
 					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
-					<integer>75</integer>
+					<integer>79</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 074 — Мой взгляд на будущее мира[ политика ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528722822.43015802</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>84</integer>
+				</dict>
+			</dict>
+			<key>Вкусные книги 075 — Impact Mapping [ профи ].md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528777824.44658703</real>
+				<key>version</key>
+				<dict>
+					<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
+					<integer>94</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -117,7 +147,13 @@
 			<string>Вкусные книги 000 — Человек, который продал Луну [ фантастика ].md</string>
 		</array>
 		<array>
-			<string>Вкусные книги 072 — Кое-что задаром [ фантастика ].md</string>
+			<string>Вкусные книги 075 — Impact Mapping [ профи ].md</string>
+		</array>
+		<array>
+			<string>Вкусные книги 074 — Мой взгляд на будущее мира[ политика ].md</string>
+		</array>
+		<array>
+			<string>@ Вкусные книги 072 — Кое-что задаром [ фантастика ].md</string>
 		</array>
 		<array>
 			<string>Вкусные книги 071 — Управление продуктом в Scrum [ продуктивность ].md</string>
@@ -140,6 +176,9 @@
 		<array>
 			<string>Вкусные книги 065 — История упадка и разрушения Великой Римской империи [ любопытство ].md</string>
 		</array>
+		<array>
+			<string>Вкусные книги 073 — Тёмная башня [ фантастика ].md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -148,7 +187,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>c2373fda572444a3bfdd349ae671da58a88e36ec249acad0fd78a976b7087204</key>
-			<integer>75</integer>
+			<integer>95</integer>
 		</dict>
 	</dict>
 </dict>
